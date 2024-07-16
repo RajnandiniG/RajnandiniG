@@ -2,7 +2,7 @@
 - 👀 I’m interested in Vector Databases and any new cool changes regarding vector embeddings
 - 🌱 I’m currently learning vector databases configuration and running test on it
 - 💞️ I’m looking to collaborate on the same
-- 📫 How to reach me 
+- 📫 How to reach me (https://www.linkedin.com/in/rajnandini-sharma24)
 - ⚡ Fun fact: You tell me
 
 <!---
